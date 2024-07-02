@@ -12,7 +12,7 @@
 <label id = "Gayid" value=text_field_data></label>
 <button id = "SetGay" onclick="setgay('NOGay')">NOGay</button>
 <button id = "SetGay" onclick="setgay('Stepa')">Stepa</button>
-<input type="button" onclick="window.location='/tests/slots/index.html';" value="Go to Google" />
+<input type="button" onclick="window.location='/bubkin007/tests/slots/index.html';" value="Go to Google" />
 
 </body>
 <script src="./my-script.js"></script>
