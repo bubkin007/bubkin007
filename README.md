@@ -13,6 +13,7 @@
 <button id = "SetGay" onclick="setgay('NOGay')">NOGay</button>
 <button id = "SetGay" onclick="setgay('Stepa')">Stepa</button>
     <a href="https://bubkin007.github.io/bubkin007/tests/slots/index.html" class="btn btn-primary">Go to Slot</a>
+    <input type="button" onclick="location.href='https://bubkin007.github.io/bubkin007/tests/slots/index.html';" value="Go to Google" />
 
 </body>
 <script src="./my-script.js"></script>
