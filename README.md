@@ -1,16 +1,17 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html lang="en">
 
-<!--
-**bubkin007/bubkin007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://telegram.org/js/telegram-web-app.js"></script>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</head>
+<body>
+<label id = "Gayid" value=text_field_data></label>
+<button id = "SetGay" onclick="setgay('NOGay')">NOGay</button>
+<button id = "SetGay" onclick="setgay('Stepa')">Stepa</button>
+</body>
+<script src="./my-script.js"></script>
+</html>
