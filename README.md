@@ -19,7 +19,6 @@ Full-stack dev (финтех, блокчейн, highload).
 
 ## 🔭 Сейчас работаю над
 - **RezidentPay** — мультивалютные переводы (SWIFT, SEPA, СБП), CRM и ЛК  
-- **Tap-to-Earn Frog** 🐸 — игра в Telegram Mini App с TON и P2E-токеномикой  
 - **CI/CD пайплайн** — GitHub Actions self-hosted runners, auto-deploy .NET сервисов  
 
 ---
