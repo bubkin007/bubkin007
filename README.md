@@ -22,8 +22,8 @@
   <progress value="45" max="100"></progress> 45%
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lex&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lex&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bubkin007&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bubkin007&layout=compact&theme=dark)
 
 ## 🏷️ Бейджи
 ![.NET](https://img.shields.io/badge/.NET-8-512BD4?logo=dotnet&logoColor=white)
