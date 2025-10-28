@@ -1,43 +1,51 @@
-# Привет, я Lex 👋
+# 👋 Lex
 
-![.NET](https://img.shields.io/badge/.NET-8-blueviolet?logo=dotnet)
-![Postgres](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql)
-![SQLite](https://img.shields.io/badge/SQLite-07405e?logo=sqlite)
-![Linux](https://img.shields.io/badge/Linux-Debian-red?logo=linux)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
-![TON](https://img.shields.io/badge/TON-Blockchain-blue?logo=ton)
-![Telegram](https://img.shields.io/badge/Telegram-MiniApp-26A5E4?logo=telegram)
+## 🔹 Финтех / Платежные системы / Инфраструктура
+- ⚡ Высоконагруженные платёжные сервисы
+- 💸 Интеграция криптовалют (TON, Play-to-Earn, Telegram Mini Apps)
+- 🛡️ Антифрод, безопасность, комплаенс
 
----
+## 🔹 Стек
+- 🖥 **Backend:** .NET 8 · C# · Kestrel · EF Core · Postgres
+- ⚙️ **DevOps:** Linux (Debian) · systemd · CI/CD
+- 🎨 **Frontend:** HTML · CSS (BEM, clamp) · React
+- 📱 **Интеграции:** Telegram Bot API · TMA (Mini Apps)
+- 🕹 **GameDev:** Unity (C#)
+- 💠 **Crypto:** TON · Wallet интеграции · токеномика
 
-## 🚀 О себе
-Full-stack dev (финтех, блокчейн, highload).  
-Стек: .NET 8 Minimal API, EF Core, PostgreSQL/SQLite, Linux/Kestrel, systemd, CI/CD.  
-Погружён в TON blockchain, Tap-to-Earn токеномику, Telegram Mini Apps.  
+## 🚀 Roadmap
+- Платёжный шлюз Rezident Pay
+  <progress value="80" max="100"></progress> 80%
+- CRM + ЛК
+  <progress value="70" max="100"></progress> 70%
+- Telegram Mini App с TON-кошельком
+  <progress value="45" max="100"></progress> 45%
+- Play-to-Earn механики в Unity
+  <progress value="35" max="100"></progress> 35%
+- Антифрод-модуль (AI/ML scoring)
+  <progress value="30" max="100"></progress> 30%
+- CI/CD для мульти-доменных сервисов
+  <progress value="60" max="100"></progress> 60%
+- Open-source пакет TON ↔ .NET
+  <progress value="25" max="100"></progress> 25%
 
----
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lex&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lex&layout=compact&theme=dark)
 
-## 🔭 Сейчас работаю над
-- **RezidentPay** — мультивалютные переводы (SWIFT, SEPA, СБП), CRM и ЛК  
-- **CI/CD пайплайн** — GitHub Actions self-hosted runners, auto-deploy .NET сервисов  
+## 🏷️ Бейджи
+![.NET](https://img.shields.io/badge/.NET-8-512BD4?logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-Language-239120?logo=c-sharp&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgres-15-336791?logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Debian-A81D33?logo=debian&logoColor=white)
+![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)
+![TON](https://img.shields.io/badge/TON-0098EA?logo=telegram&logoColor=white)
 
----
-
-## ⚡ Принципы
-- Безопасность > скорость  
-- Масштабируемость по умолчанию  
-- Автоматизация всего (DevOps first)  
-- Pixel-perfect фронт по Figma  
-
----
-
-## 📊 GitHub Статистика
-![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark)  
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=dark)
-
----
-
-## 📫 Контакты
-[🌐 any-it.ru](https://any-it.ru)  
-[✈️ Telegram](https://t.me/username)  
-[💼 LinkedIn](https://linkedin.com/in/username)  
+## 🔗 Контакты
+🌍 [any-it.ru](https://any-it.ru)  
+✉️ [info@any-it.ru](mailto:info@any-it.ru)  
+💬 Telegram: [@резерв](https://t.me/резерв)
