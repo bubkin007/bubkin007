@@ -5,9 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bubkin007&style=for-the-badge&label=VIEWS" />
-  <img src="https://img.shields.io/github/followers/bubkin007?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/bubkin007?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Rezident%20Pay-FinTech%20Ecosystem-1DB954?style=for-the-badge&logo=money&logoColor=white" />
   <img src="https://img.shields.io/badge/Role-CTO-1DB954?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-FinTech%20%7C%20TON%20%7C%20Infra-blueviolet?style=for-the-badge" />
 </p>
