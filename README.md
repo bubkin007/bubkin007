@@ -20,14 +20,6 @@
   <progress value="70" max="100"></progress> 70%
 - Telegram Mini App с TON-кошельком
   <progress value="45" max="100"></progress> 45%
-- Play-to-Earn механики в Unity
-  <progress value="35" max="100"></progress> 35%
-- Антифрод-модуль (AI/ML scoring)
-  <progress value="30" max="100"></progress> 30%
-- CI/CD для мульти-доменных сервисов
-  <progress value="60" max="100"></progress> 60%
-- Open-source пакет TON ↔ .NET
-  <progress value="25" max="100"></progress> 25%
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lex&show_icons=true&theme=dark)
