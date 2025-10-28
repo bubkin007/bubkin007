@@ -1,20 +1,22 @@
 <!-- HEADER -->
-<h1 align="center">👋 Lex</h1>
+<h1 align="center">👋 Lex · CTO</h1>
 <p align="center">
-  Финтех · Платёжные системы · Инфраструктура
+  Финтех · Платёжные системы · Инфраструктура · Архитектура
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bubkin007&style=for-the-badge&label=VIEWS" />
   <img src="https://img.shields.io/github/followers/bubkin007?style=for-the-badge" />
   <img src="https://img.shields.io/github/stars/bubkin007?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Role-CTO-1DB954?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-FinTech%20%7C%20TON%20%7C%20Infra-blueviolet?style=for-the-badge" />
 </p>
 
 <!-- DIVIDER -->
 <p align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1220,100:1f2937&height=2"/></p>
 
 ## 🔹 Финтех / Платёжные системы / Инфраструктура
-- ⚡ Высоконагруженные платёжные сервисы
+- ⚡ CTO · Архитектура высоконагруженных сервисов
 - 💸 TON · Play-to-Earn · Telegram Mini Apps
 - 🛡️ Антифрод · Безопасность · Комплаенс
 
@@ -29,16 +31,7 @@
 **Crypto**: TON · Wallet интеграции · Токеномика
 
 <p align="center">
-  <img src="https://img.shields.io/badge/.NET-8-512BD4?logo=dotnet&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-Language-239120?logo=c-sharp&logoColor=white">
-  <img src="https://img.shields.io/badge/Postgres-15-336791?logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-Debian-A81D33?logo=debian&logoColor=white">
-  <img src="https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white">
-  <img src="https://img.shields.io/badge/TON-0098EA?logo=telegram&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,postgresql,debian,linux,react,html,css,unity,telegram" />
 </p>
 
 <p align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1220,100:1f2937&height=2"/></p>
@@ -54,13 +47,18 @@
 
 ## 📊 GitHub Статистика
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bubkin007&theme=github-dark&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api?username=bubkin007&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img src="https://streak-stats.demolab.com?user=bubkin007&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bubkin007&theme=dark&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bubkin007&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bubkin007&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bubkin007&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bubkin007&theme=github_dark" />
+</p>
+
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=bubkin007&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
@@ -74,20 +72,11 @@
 <p align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1220,100:1f2937&height=2"/></p>
 
 ## ⏱ WakaTime
-<!-- Укажи свой WakaTime username в параметре username= -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bubkin007&theme=dark&hide_border=true&range=last_7_days" />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bubkin007&theme=dark&hide_border=true&range=last_year" />
 </p>
 
-<details>
-<summary>Инструкция по WakaTime</summary>
-
-1. Зарегистрируйся на WakaTime и установи плагин в IDE.  
-2. В профиле WakaTime узнай свой `username`.  
-3. Замени `YOUR_WAKATIME_USERNAME` в ссылках выше.  
-4. Для приватных репо добавь GitHub Secret `WAKATIME_API_KEY`, если используешь экшен-виджеты.
-</details>
 
 <p align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1220,100:1f2937&height=2"/></p>
 
