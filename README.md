@@ -83,6 +83,9 @@
 <p align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1220,100:1f2937&height=2"/></p>
 
 ## 🔗 Контакты
-🌍 <a href="https://any-it.ru">any-it.ru</a>  
-✉️ <a href="mailto:info@any-it.ru">info@any-it.ru</a>  
-💬 <a href="https://t.me/babkin_ai">Telegram: @babkin_ai</a>
+
+[![Сайт any-it.ru](https://img.shields.io/badge/Сайт-any--it.ru-0b7285?style=for-the-badge)](https://any-it.ru)
+[![Email info@any-it.ru](https://img.shields.io/badge/Email-info@any--it.ru-495057?style=for-the-badge)](mailto:info@any-it.ru)  
+[![Telegram @babkin_ai](https://img.shields.io/badge/Telegram-@babkin__ai-0088cc?style=for-the-badge)](https://t.me/babkin_ai)
+[![WhatsApp +7 967 247-69-05](https://img.shields.io/badge/WhatsApp-+7 967 247-69-05-25D366?style=for-the-badge)](https://wa.me/79672476905)
+
