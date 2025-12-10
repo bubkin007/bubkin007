@@ -35,11 +35,7 @@
 <p align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1220,100:1f2937&height=2"/></p>
 
 ## 🚀 Roadmap
-| Проект | Прогресс |
-|---|---|
-| Платёжный шлюз **Rezident Pay** | ![80%](https://progress-bar.dev/80?title=Rezident%20Pay&width=300&color=1DB954) |
-| CRM + ЛК | ![70%](https://progress-bar.dev/70?title=CRM%20%2B%20LK&width=300&color=F59E0B) |
-| Telegram Mini App + TON Wallet | ![45%](https://progress-bar.dev/45?title=TMA%20%2B%20TON&width=300&color=EF4444) |
+
 
 <p align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1220,100:1f2937&height=2"/></p>
 
