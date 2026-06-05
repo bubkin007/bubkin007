@@ -2,48 +2,109 @@
 <html lang="en">
 
 <head>
-    <!-- HTML Meta Tags -->
-<title>@Babkin_ai_GitHub</title>
-<meta name="description" content="@Babkin_ai_GitHub">
-
-<!-- Facebook Meta Tags -->
-<meta property="og:url" content="https://bubkin007.github.io/bubkin007/">
-<meta property="og:type" content="website">
-<meta property="og:title" content="@Babkin_ai_GitHub">
-<meta property="og:description" content="@Babkin_ai_GitHub">
-<!--
-  You can generate this image URL dynamically: https://ogcdn.net/e4b8c678-7bd5-445d-ba03-bfaad510c686/v4/{site_text}/{title_text}/{image_url}/og.png
-  Replace the variables in the brackets with your own values and use this URL in the image tag below this comment. Ensure values are URL encoded.
-  For more information, read: https://www.opengraph.xyz/blog/how-to-implement-dynamic-open-graph-images
--->
-<meta property="og:image" content="./bubkin007/venom.jpg">
-
-<!-- Twitter Meta Tags -->
-<meta name="twitter:card" content="summary_large_image">
-<meta property="twitter:domain" content="bubkin007.github.io">
-<meta property="twitter:url" content="https://bubkin007.github.io/bubkin007/">
-<meta name="twitter:title" content="@Babkin_ai_GitHub">
-<meta name="twitter:description" content="@Babkin_ai_GitHub">
-<!--
-  You can generate this image URL dynamically: https://ogcdn.net/e4b8c678-7bd5-445d-ba03-bfaad510c686/v4/{site_text}/{title_text}/{image_url}/og.png
-  Replace the variables in the brackets with your own values and use this URL in the image tag below this comment. Ensure values are URL encoded.
-  For more information, read: https://www.opengraph.xyz/blog/how-to-implement-dynamic-open-graph-images
--->
-<meta name="twitter:image" content="./bubkin007/venom.jpg">
-
-<!-- Meta Tags Generated via https://www.opengraph.xyz -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <script src="https://telegram.org/js/telegram-web-app.js"></script>
+    <title>@Babkin_ai_GitHub</title>
+    <meta name="description" content="@Babkin_ai_GitHub">
+    <meta property="og:url" content="https://bubkin007.github.io/bubkin007/">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="@Babkin_ai_GitHub">
+    <meta property="og:description" content="@Babkin_ai_GitHub">
+    <meta property="og:image" content="./venom.jpg">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="twitter:domain" content="bubkin007.github.io">
+    <meta property="twitter:url" content="https://bubkin007.github.io/bubkin007/">
+    <meta name="twitter:title" content="@Babkin_ai_GitHub">
+    <meta name="twitter:description" content="@Babkin_ai_GitHub">
+    <meta name="twitter:image" content="./venom.jpg">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #090b10;
+            color: #f0f4ff;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            padding: 20px;
+        }
 
+        .page {
+            max-width: 700px;
+            width: 100%;
+            background: rgba(15, 23, 42, 0.95);
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            border-radius: 18px;
+            box-shadow: 0 24px 80px rgba(0, 0, 0, 0.25);
+            padding: 28px;
+        }
+
+        h1,
+        h2 {
+            margin: 0 0 16px;
+        }
+
+        button {
+            background: #2563eb;
+            color: white;
+            border: none;
+            border-radius: 12px;
+            padding: 12px 18px;
+            margin: 8px 8px 8px 0;
+            cursor: pointer;
+            font-size: 1rem;
+        }
+
+        button:hover {
+            background: #1d4ed8;
+        }
+
+        #stats {
+            margin-top: 24px;
+            padding: 18px;
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 14px;
+        }
+
+        #stats li {
+            margin-bottom: 10px;
+            line-height: 1.5;
+        }
+
+        #Gayid {
+            margin-top: 18px;
+            font-weight: 700;
+            color: #7dd3fc;
+        }
+    </style>
 </head>
-<body>
-<label id = "Gayid" value=text_field_data></label>
-<button id = "SetGay" onclick="setgay('NOGay')">NOGay</button>
-<button id = "SetGay" onclick="setgay('Stepa')">Stepa</button>
-<input type="button" onclick="window.location='/bubkin007/tests/slots/index.html';" value="Spin Slots" />
 
+<body>
+    <div class="page">
+        <h1>👋 @Babkin_ai_GitHub</h1>
+        <p>Убрано то, что не грузится, и добавлена простая статистика посещений.</p>
+
+        <div>
+            <button id="spinSlotsButton">Spin Slots</button>
+            <button onclick="setGay('NOGay')">NOGay</button>
+            <button onclick="setGay('Stepa')">Stepa</button>
+        </div>
+
+        <div id="Gayid">Текущее значение: <strong>—</strong></div>
+
+        <section id="stats">
+            <h2>📊 Статистика</h2>
+            <ul>
+                <li>Всего посещений: <strong id="visitCount">0</strong></li>
+                <li>Последнее посещение: <strong id="lastVisit">—</strong></li>
+                <li>Переходов на слот-игру: <strong id="spinCount">0</strong></li>
+                <li>Обновлено: <strong id="statsUpdated">—</strong></li>
+            </ul>
+        </section>
+    </div>
+
+    <script src="./my-script.js"></script>
 </body>
-<script src="./my-script.js"></script>
+
 </html>
