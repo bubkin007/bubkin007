@@ -27,6 +27,18 @@
 
 ---
 
+## 📊 GitHub Статистика
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bubkin007&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bubkin007&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bubkin007&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
 ## 🚀 Roadmap & Текущие проекты
 - 🏢 **Proveren Group** — развитие цифровой инфраструктуры для B2B-консалтинга
 - 🛒 **Rustic Delivery** — запуск Mobile-First витрины с интеграцией Saby (СБИС)
@@ -39,6 +51,13 @@
 ## 📌 Pinned Projects
 - [rezident-pay](https://github.com/bubkin007/rezident-pay)
 - [any-it](https://github.com/bubkin007/any-it)
+
+---
+
+## 🏆 Достижения
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bubkin007&theme=onedark&no-frame=true&row=1&column=7" alt="Trophy" />
+</p>
 
 ---
 
