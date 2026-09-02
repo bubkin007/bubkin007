@@ -36,7 +36,7 @@ Tech Lead с 12 годами в IT, 7+ годами коммерческой р�
 
 ## 🚀 Публичный код
 
-- [codegen-app-template](https://github.com/bubkin007/codegen-app-template) — шаблон приложения для генерации кода.
+
 
 ## 🌐 Контакты
 
