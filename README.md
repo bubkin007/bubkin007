@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:0052CC&height=180&section=header&text=Tech%20Lead%20.NET&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="Tech Lead .NET" />
+</p>
+
 # 👋 Александр Бабкин · Tech Lead .NET | AI-native
 
 `C#/.NET` · `Backend` · `Payments & Integrations` · `AI-native Engineering`
@@ -5,6 +9,8 @@
 [![Role-Tech Lead .NET](https://img.shields.io/badge/Role-Tech%20Lead%20.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/bubkin007)
 [![Focus-Payments & Integrations](https://img.shields.io/badge/Focus-Payments%20%26%20Integrations-1DB954?style=for-the-badge)](https://github.com/bubkin007)
 [![Engineering-AI native](https://img.shields.io/badge/Engineering-AI--native-0052CC?style=for-the-badge)](https://github.com/bubkin007)
+[![Profile views](https://komarev.com/ghpvc/?username=bubkin007&style=for-the-badge&color=512BD4)](https://github.com/bubkin007)
+[![GitHub followers](https://img.shields.io/github/followers/bubkin007?label=Followers&style=for-the-badge&logo=github)](https://github.com/bubkin007)
 
 Tech Lead с 12 годами в IT, 7+ годами коммерческой разработки на C#/.NET и 6+ годами технического лидерства. Проектирую и развиваю backend-системы, API и интеграционные контуры; помогаю командам превращать сложные требования в надёжные сервисы и предсказуемую поставку.
 
@@ -39,17 +45,13 @@ Tech Lead с 12 годами в IT, 7+ годами коммерческой р�
 
 ---
 
+## 📊 GitHub-профиль
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bubkin007&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bubkin007&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bubkin007&theme=github_dark" alt="GitHub profile summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bubkin007&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
-
-## 🏆 GitHub-профиль
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bubkin007&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophy" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bubkin007&theme=github_dark" alt="Repositories by language" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bubkin007&theme=dark&hide_border=true" alt="GitHub contribution streak" />
 </p>
